@@ -9,5 +9,4 @@ la tarde llega pronto
 
 
 ahora insertaremos una imagen
-
-![hack](C:\Users\casa\Desktop)
+![hack](imagen/descargas.png)
