@@ -10,4 +10,4 @@ la tarde llega pronto
 
 ahora insertaremos una imagen
 
-![hack](img/desgarga.png)
+![hack](C:\Users\casa\Documents\GitHub\introduccion-Github\img)
